@@ -9,7 +9,9 @@ This following work plan goes around the idea of trying to minimize the budget a
 The main and secondary objectives of our project are:
 
 ~ Build a fully functional spin-down mini centrifuge machine
+ 
  . Data visualisation (rpm and time)
+ 
  . Speed regulation of the mini centrifuge machine
 
 Last but not least, concepts such as:
