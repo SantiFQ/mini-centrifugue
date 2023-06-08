@@ -7,6 +7,7 @@ We'll be using a hard drive disk, 3D printed parts (the rotor, machine's lid, et
 This following work plan goes around the idea of trying to minimize the budget as much as posible, not only because we do not count with enough money to build this from scratch, but also we study Biology not Engineering. Moreover, we aim to tell all the curious people out there, that are lucky enough to find us surfing the internet, how this first experience worked for us at the end of the first semester of the current year (our first four-month period in Argentina).
 
 The main and secondary objectives of our project are:
+
 ~ Build a fully functional spin-down mini centrifuge machine
  . Data visualisation (rpm and time)
  . Speed regulation of the mini centrifuge machine
