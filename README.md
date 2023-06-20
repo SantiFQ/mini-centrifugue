@@ -45,3 +45,13 @@ Welcome to our first science project!
 
 #### 07/06/2023
 Revision de conceptos, realizamos plan de trabajo, analizamos opciones de modelos centrifuga spin-down.
+
+#### 09/06/2023
+Pudimos encontrar dos hdd. Desarmamos ambos, les sacamos los discos para poder ensamblarlo con el rotor. Probamos si los hdd funcionaban correctamente. Enchufamos uno de los dos con un cable adaptador usb a la computadora, pero no pudimos hacer que funcione. El otro HDD lo conectamos con una bateria, pero nos pasamos con el voltaje y lo quemamos.
+Buscamos otras posibilidades como plan B, en caso de que no encontraramos un nuevo HDD. Vimos la posibilidad de utilizar el cooler del procesador de una pc como rotor.
+
+#### 14/06/2023
+Probamos en casa el hdd que no funcionaba y pudimos hacerlo funcionar. Nuestro profesor encontro otro que tambien funcionaba. Trajimos una fuente de pc para utilizarlo como fuente para el HDD y probamos que funcionara correctamente en ambas. Imprimimos un rotor de centrifuga hecho especialmente para utilizar en un HDD, cuyo modelo lo obtuvimos de thingiverse.com. pero no podiamos encastrarlo con ninguno de los HDD. En uno de los dos discos los orificios del rotor impreso y del disco para poder encastrar ambas partes no coincidian. Conel otro, la superficie del rotor del disco duro tenia una superficie muy elevada que no permitia que los tornillos alcancen correctamente al disco desde los orificios del rotor impreso. Por lo tanto decidimos derretir el centro del rotor impreso, y si bien pudimos ensamblarlo al disco con los tornillos, el rotor no estaba ajustado, y se tambaleaba cuando lo haciamos girar, por lo tanto lo terminamos de pegar con silicona.
+
+#### 16/06/2023
+Hicimos la impresion de la carcaza de la centrifuga a partir del modelo de un carry para HDD, pero las dimensiones no eran correctas. Probamos nuevamente que los HDD funcionaran y el rotor girara correctamente. Tomamos nuevas mediciones del Disco solido y partir de ellas hicimos otro modelo de carry en thinkercad, ademas de una tapa a imorimir para el 21/06, donde tambien haremos el ensamblado de toda la centrifuga.
