@@ -31,15 +31,14 @@ Welcome to our first science project!
 - 1st Stage of 3D model construction --> Try to assemble the rotor with our HDD.
 
 #### 14/06/2023
-- A 3D carry disk and a 3D Centrifuge's cover modeling and printing.
+- 3D carry disk and centrifuge's cover modeling and printing.
 
 #### 16/06/2023
-- Brake system
-- On/Off system
-- Final assembling 
+- Debate about making a brakes system and putting an on/off button.
+- Design details and try to make the final assembling 
 
 #### 21/06/2023
-- Final tryout
+- Final tryout and exposition
 
 ## Bitacle
 
@@ -54,7 +53,7 @@ At the end of the day, we looked forward to other possibilities as a plan B, in 
 #### 14/06/2023
 We tested at our homes the HDD that was not working before and we were able to make it spin. Later that afternoon, one of our professors told us that he found another hard drive disk at his home and he was able to make it work without any problem at all, so he handed it over to us in case we burned the inner circuits down of the remaining disk. 
 We brought a pc power supply to use as an energy source for the HDD and tested it on both of them to check if they worked correctly. 
-Then, we printed a centrifuge rotor made especially for one of our disks (we found the model in thingiverse.com), but we couldn't make it fit with any of the available disks. On one hand, one of them had its holes too small, in a way we couldn't make them coincide with the ones of the rotor. On the other hand, the remaining disk had its surface slightly different compared to the ones in the market, it had kind of a conic area where we were supposed to attach the rotor and this didn't work properly. Therefore, we decided to melt down the center of the 3D printed rotor in a way it could fit well enough to work as it should. (We were able to finally assemble the disk and the rotos using some liquid silicone.
+Then, we printed a centrifuge rotor made especially for one of our disks (we found the model in thingiverse.com), but we couldn't make it fit with any of the available disks. On one hand, one of them had its holes too small, in a way we couldn't make them coincide with the ones of the rotor. On the other hand, the remaining disk had its surface slightly different compared to the ones in the market, it had kind of a conic area where we were supposed to attach the rotor and this didn't work properly. Therefore, we decided to melt down the center of the 3D printed rotor in a way it could fit well enough to work as it should. (We were able to finally assemble the disk and the rotos using some liquid silicone).
 
 #### 16/06/2023
-We made printed a carry disk case to use as a "HDD holder" for our centrifuge, but the dimensions were not correct. We took some new measurements of the hard drive disk and proceeded to make from zeor another carry model in thinkercad, in addition to this we added a cover design made from scratvh too. We look forward to have the centrifuge ready by june 21st.
+We made printed a carry disk case to use as a "HDD holder" for our centrifuge, but the dimensions were not correct. We took some new measurements of the hard drive disk and proceeded to make from zero another carry model in tinkercad, in addition to this we added a cover design made from scratch too. We look forward to have the centrifuge ready by june 21st.
