@@ -31,7 +31,7 @@ Welcome to our first science project!
 - 1st Stage of 3D model construction --> Try to assemble the rotor with our HDD.
 
 #### 14/06/2023
-- A 3D carry disk and a 3D Centrifuge's lid modeling and printing.
+- A 3D carry disk and a 3D Centrifuge's cover modeling and printing.
 
 #### 16/06/2023
 - Brake system
@@ -44,14 +44,17 @@ Welcome to our first science project!
 ## Bitacle
 
 #### 07/06/2023
-Revision de conceptos, realizamos plan de trabajo, analizamos opciones de modelos centrifuga spin-down.
+Concept review --> We carried out a work plan --> We analyzed some open-source options in Internet for our spin-down centrifuge model.
 
 #### 09/06/2023
-Pudimos encontrar dos hdd. Desarmamos ambos, les sacamos los discos para poder ensamblarlo con el rotor. Probamos si los hdd funcionaban correctamente. Enchufamos uno de los dos con un cable adaptador usb a la computadora, pero no pudimos hacer que funcione. El otro HDD lo conectamos con una bateria, pero nos pasamos con el voltaje y lo quemamos.
-Buscamos otras posibilidades como plan B, en caso de que no encontraramos un nuevo HDD. Vimos la posibilidad de utilizar el cooler del procesador de una pc como rotor.
+We were able to find two hard drive disks to use as our "engine" to provide the necessary energy to make our centrifuge spin in a way it could reach 5000 RPM. We disassemble both of them and removed the "disks" to be able to put the 3D rotor provided by our Professors. Then, we tested them to check if they working properly to accomplish one of our main goals in this project. 
+We tried one of them by plugging in an usb adapter cable into our computer, but it didn't work at all. With less options availables in the Physics Laboratory, we tried to make the other one spin by connecting it with a battery, but the voltage was too high and we burned it by accident.
+At the end of the day, we looked forward to other possibilities as a plan B, in case we didn't find a new HDD, such as using a PC processor cooler as a rotor.
 
 #### 14/06/2023
-Probamos en casa el hdd que no funcionaba y pudimos hacerlo funcionar. Nuestro profesor encontro otro que tambien funcionaba. Trajimos una fuente de pc para utilizarlo como fuente para el HDD y probamos que funcionara correctamente en ambas. Imprimimos un rotor de centrifuga hecho especialmente para utilizar en un HDD, cuyo modelo lo obtuvimos de thingiverse.com. pero no podiamos encastrarlo con ninguno de los HDD. En uno de los dos discos los orificios del rotor impreso y del disco para poder encastrar ambas partes no coincidian. Conel otro, la superficie del rotor del disco duro tenia una superficie muy elevada que no permitia que los tornillos alcancen correctamente al disco desde los orificios del rotor impreso. Por lo tanto decidimos derretir el centro del rotor impreso, y si bien pudimos ensamblarlo al disco con los tornillos, el rotor no estaba ajustado, y se tambaleaba cuando lo haciamos girar, por lo tanto lo terminamos de pegar con silicona.
+We tested at our homes the HDD that was not working before and we were able to make it spin. Later that afternoon, one of our professors told us that he found another hard drive disk at his home and he was able to make it work without any problem at all, so he handed it over to us in case we burned the inner circuits down of the remaining disk. 
+We brought a pc power supply to use as an energy source for the HDD and tested it on both of them to check if they worked correctly. 
+Then, we printed a centrifuge rotor made especially for one of our disks (we found the model in thingiverse.com), but we couldn't make it fit with any of the available disks. On one hand, one of them had its holes too small, in a way we couldn't make them coincide with the ones of the rotor. On the other hand, the remaining disk had its surface slightly different compared to the ones in the market, it had kind of a conic area where we were supposed to attach the rotor and this didn't work properly. Therefore, we decided to melt down the center of the 3D printed rotor in a way it could fit well enough to work as it should. (We were able to finally assemble the disk and the rotos using some liquid silicone.
 
 #### 16/06/2023
-Hicimos la impresion de la carcaza de la centrifuga a partir del modelo de un carry para HDD, pero las dimensiones no eran correctas. Probamos nuevamente que los HDD funcionaran y el rotor girara correctamente. Tomamos nuevas mediciones del Disco solido y partir de ellas hicimos otro modelo de carry en thinkercad, ademas de una tapa a imorimir para el 21/06, donde tambien haremos el ensamblado de toda la centrifuga.
+We made printed a carry disk case to use a "HDD holder" for our centrifuge, but the dimensions were not correct. We took some new measurements of the hard drive disk and proceeded to make from zeor another carry model in thinkercad, in addition to this we added a cover design made from scratvh too. We look forward to have the centrifuge ready by june 21st.
